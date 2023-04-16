@@ -1,0 +1,111 @@
+{
+  "users": [
+    {
+      "name": "Myra",
+      "id": 1
+    },
+    {
+      "name": "Ervin Huel",
+      "id": 2
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Tasty Steel Sausages",
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "title": "Generic Plastic Salad",
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "title": "Intelligent Metal Shoes",
+      "id": 4
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=75761",
+      "id": 2
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=38743",
+      "id": 7
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=69168",
+      "id": 11
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=94197",
+      "id": 12
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=86980",
+      "id": 13
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=62491",
+      "id": 14
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=63995",
+      "id": 15
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=52880",
+      "id": 16
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=15026",
+      "id": 17
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=88388",
+      "id": 18
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=43179",
+      "id": 19
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=55233",
+      "id": 20
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=60969",
+      "id": 21
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3479",
+      "id": 22
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=27576",
+      "id": 23
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=70912",
+      "id": 24
+    }
+  ]
+}
